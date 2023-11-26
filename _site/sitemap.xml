@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/news/plans/</loc>
+<lastmod>2023-11-26T13:23:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/news/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/news/src/html/</loc>
+<lastmod>2023-11-25T21:30:28+02:00</lastmod>
+</url>
+</urlset>
